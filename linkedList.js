@@ -13,7 +13,7 @@ return listObj.head = null;
 }
 
 function getTail(){
-
+return listObj.tail = null;
 }
 
 function add(){
